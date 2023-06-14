@@ -1,0 +1,40 @@
+[
+  {
+    "organization": "node",
+    "createdAt": "2023-06-12T12:19:31.727Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "okpa",
+      "sokudale"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "Daniel",
+    "country": "Canada",
+    "id": 2,
+    "noOfEmployees": 2,
+    "employees": [
+      "Fan zhendong",
+      "Ma long"
+    ]
+  },
+  {
+    "organization": "node",
+    "createdAt": "2023-06-12T12:20:04.137Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "okpa",
+      "sokudale"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "Daniel",
+    "country": "Canada",
+    "id": 3,
+    "noOfEmployees": 2,
+    "employees": [
+      "Fan zhendong",
+      "Ma long"
+    ]
+  }
+]

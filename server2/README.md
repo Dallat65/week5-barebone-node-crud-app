@@ -11,4 +11,4 @@ Create a service that parses a URL and returns meta-data from that web page. Dat
 ## How will I complete this project?
 
 - Use the folder ./server2 and work there.
-- Your application should use basic bare bone node and typescript
+- Your application should use basic bare bone node and typescript  
